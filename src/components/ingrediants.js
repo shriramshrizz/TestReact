@@ -1,4 +1,4 @@
-import React from 'react123'
+import React from 'react234'
 
 function Ingrediants() {
   return (
@@ -25,10 +25,6 @@ ingredients for high quality products! </p>
                 <h4>Lactobacillus</h4>
                 <p>Invigorate your gut microbiome</p>
                 <p>SEE MARA</p>
-            </div>
-
-            <div>
-                asdasdasdad
             </div>
 
             </div>
