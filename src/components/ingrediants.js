@@ -27,9 +27,10 @@ ingredients for high quality products! </p>
                 <p>SEE MORE</p>
             </div>
 
-            <div className="circle-container">
-                <div className="quarter-circle"></div>
-                <div className="full-circle"></div>
+            <div>
+                asdasdasdad
+            </div>
+
             </div>
 
         </div>
