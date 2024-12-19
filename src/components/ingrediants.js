@@ -24,7 +24,7 @@ ingredients for high quality products! </p>
             <div className='lactobacillus'>
                 <h4>Lactobacillus</h4>
                 <p>Invigorate your gut microbiome</p>
-                <p>SEE MORE</p>
+                <p>SEE MARA</p>
             </div>
 
             <div>
