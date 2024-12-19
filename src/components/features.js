@@ -11,13 +11,6 @@ function Features() {
 undergone lab and safety tests</p>
         </div>
 
-        <div className="vegetarian Friendly">
-            <h4>Vegetarian Friendly</h4>
-            <p>We have a wide selection of vegetarian
-products to meet your needs
-</p>
-        </div>
-
         <div className='Made in India'>
             <h4>Made in India</h4>
             <p>Shop local and explore health products
