@@ -3,19 +3,17 @@ import elbrit_logo from './../Assets/elbrit_logo.png'
 
 const Header = () => {
   return (
-    <header style={headerStyle}>
+    <header>
         <img
           src={elbrit_logo}
           alt="Elbrit Logo"
-          style={{height: '100px'}}
+          style={{height: '50px', width: '10px'}}
         />
     </header>
   );
 };
 
-const headerStyle = {
-  padding: '10px'
-}
+
 
 
 
