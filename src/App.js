@@ -1,5 +1,5 @@
 import Header from "./components/header";
-import './App123.css';
+import './App.css';
 import EssentialVitamins from "./components/essential_vitamins";
 import Features from "./components/features";
 import Ingrediants from "./components/ingrediants";
