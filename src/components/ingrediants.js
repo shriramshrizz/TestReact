@@ -1,4 +1,4 @@
-import React from 'react543'
+import React from 'reacthjb'
 
 function Ingrediants() {
   return (
