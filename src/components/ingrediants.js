@@ -15,12 +15,6 @@ ingredients for high quality products! </p>
 
         <div className="ingrediants-section-2">
 
-            <div className='magnesium'>
-                <h4>Magnesium</h4>
-                <p>Boost energy and support muscle function</p>
-                <p>SEE MORE</p>
-            </div>
-
             <div className='hyaluronicAcid'>
                 <h4>Hyaluronic</h4>
                 <p>For smooth, supple and soft skin!</p>
