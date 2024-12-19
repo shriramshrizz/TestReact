@@ -1,4 +1,4 @@
-import React from 'react123'
+import React from 'react543'
 
 function Ingrediants() {
   return (
