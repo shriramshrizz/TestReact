@@ -1,0 +1,163 @@
+/* .essential-vitamins-section {
+    padding: 40px 20px;
+    background-color: #f8f8f8;
+    text-align: center;
+}
+
+.section-title {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.section-subtitle {
+    font-size: 1.2em;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.vitamins-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.vitamin-card {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    width: 250px;
+    text-align: left;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.vitamin-card h3 {
+    margin-bottom: 10px;
+    font-size: 1.5em;
+    color: #333;
+}
+
+.vitamin-card p {
+    color: #666;
+    margin-bottom: 10px;
+}
+
+.see-more-link {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.see-more-link:hover {
+    text-decoration: underline;
+} */
+
+
+.container{
+    background-color: lightblue;
+}
+
+.sections {
+    display: flex;
+    justify-content: center;
+}
+
+.section-title{
+    display: flex;
+    justify-content: center;
+    font-size: 34px;
+}
+
+.probiotics-section img {
+    width: 50%;
+    height: auto;
+    justify-content: center;
+   object-fit: fill; 
+}
+
+.probiotics-section{
+    display: flex;
+    justify-content: center;
+}
+
+
+.features-section {
+    background-color: darkcyan;
+    width: 75%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 50px;
+    padding: 20px;
+}
+
+
+
+.ingrediants-section-1, .ingrediants-section-2{
+    display: flex;
+    gap: 25px;
+    align-items: center;
+    justify-content: center;
+}
+
+.ingrediants-section-1 div{
+    padding: 5px 20px;
+}
+
+.vitaminC{
+    background-image: url('./Assets/h2-b1.jpg');
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.vitaminB3 {
+    background-image: url('./Assets/bn2-2.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.magnesium{
+    background-image: url('./Assets/bn2.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.hyaluronicAcid {
+    background-image: url('./Assets/bn2-4.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.lactobacillus {
+    background-image: url('./Assets/bn2-5.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+
+.circle-container {
+  display: flex;
+  flex-direction: column;
+  row-gap: 12px;
+}
+
+.full-circle {
+  width: 70px; /* Diameter of the full circle */
+  height: 70px; /* Diameter of the full circle */
+  background-color: orange; /* Color of the full circle */
+  border-radius: 50%; /* Makes it a circle */
+}
+
+.quarter-circle {
+  width: 55px; /* Diameter of the parent circle */
+  height: 55px; /* Diameter of the parent circle */
+  background-color: lightskyblue; /* Color of the quarter circle */
+  border-radius: 0 0 150px 0; /* Creates the bottom-right quarter of a circle */
+}
