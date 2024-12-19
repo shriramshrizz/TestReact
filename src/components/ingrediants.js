@@ -27,10 +27,6 @@ ingredients for high quality products! </p>
                 <p>SEE MARA</p>
             </div>
 
-            <div>
-                asdasdasdad
-            </div>
-
             </div>
 
         </div>
